@@ -1,5 +1,5 @@
 {
-  "name": "tdi",
+  "name": "td-images",
   "version": "1.0.0",
   "homepage": "http://www.kavispires.com/td-images/",
   "private": true,
@@ -36,15 +36,7 @@
     "printWidth": 110,
     "singleQuote": true,
     "trailingComma": "es5",
-    "bracketSpacing": true,
-    "overrides": [
-      {
-        "files": "/functions/*.js",
-        "options": {
-          "singleQuote": false
-        }
-      }
-    ]
+    "bracketSpacing": true
   },
   "browserslist": {
     "production": [
